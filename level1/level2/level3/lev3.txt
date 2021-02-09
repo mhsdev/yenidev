@@ -1,3 +1,0 @@
-Include every Bootstrap JavaScript plugin and dependency with one of our two bundles.
-Both bootstrap.bundle.js and bootstrap.bundle.min.js include Popper for our tooltips and popovers.
-For more information about what’s included in Bootstrap, please see our contents section.
