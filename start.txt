@@ -1,3 +1,14 @@
 Test a Git start
 
 new comment for this file
+
+Download Bootstrap to get the compiled CSS and JavaScript, source code, or include it with your favorite package managers like npm, RubyGems, and more.
+
+
+const bootstrap = require('bootstrap') or import bootstrap from 'bootstrap' will load all of Bootstrap’s plugins onto a bootstrap object. The bootstrap module itself exports all of our plugins. You can manually load Bootstrap’s plugins individually by loading the /js/dist/*.js files under the package’s top-level directory.
+
+Bootstrap’s package.json contains some additional metadata under the following keys:
+
+    sass - path to Bootstrap’s main Sass source file
+    style - path to Bootstrap’s non-minified CSS that’s been precompiled using the default settings (no customization)
+
