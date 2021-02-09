@@ -1,0 +1,2 @@
+# yenidev
+bir yeni gəliştirmə
